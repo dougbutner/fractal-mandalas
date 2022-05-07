@@ -20,7 +20,7 @@ Enjoy the show!
 
 # Crediting the Author
 
-To credit please use one or both od the following options
+To credit please use one or both of the following options
 
 👨🏻‍🎨 [douglas.life](https://douglas.life)
 
