@@ -1,7 +1,5 @@
 # Welcome to the Fractal Mandals
 
-# Using These FraMans 
-
 > Explore the [fractal collection](https://github.com/dougbutner/fractal-mandalas/tree/main/fractals)
 
 You can use these 2k images as desktop backgrounds, in videos, in video jockey (VJ) software, or in any other video application, especially with further fractal or kaleidoscope processing. 
