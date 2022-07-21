@@ -5,7 +5,7 @@ The contents of this directories and the subject matter of the following license
 
 These licenses do not extend to use of and resolution of source image greater than 2000x2000px, nor any of the images available from my fractal art collection.
 
-Please visit [my license purchase page](https://godsol.gumroad.com/l/fractal-pack) to find 11k images including render with full-alpha transparency. Perfect for 8k video and beyond.  
+Please visit [my commercial license purchase page](https://godsol.gumroad.com/l/fractal-pack) to find 11k images including render with full-alpha transparency. Perfect for 8k video and beyond.  
 
 Attribution as Fractal Mandala by godsol or just godsol in relevant context.
 
